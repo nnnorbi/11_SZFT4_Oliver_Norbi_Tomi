@@ -16,3 +16,15 @@ header{
     background-color: white;
     border-radius: 25px;
 }
+#card1{
+    background: linear-gradient(to bottom right, blue, rgb(0, 0, 124));
+    color: white;
+    border: 3px white solid;
+    border-radius: 10px;
+}
+#card2{
+    background: linear-gradient(to bottom right, blue, rgb(0, 0, 124));
+    color: white;
+    border: 3px white solid;
+    border-radius: 10px;
+}

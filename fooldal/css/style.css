@@ -1,3 +1,18 @@
-body{
-    background-image: url(../img/neumann_header.png);
+
+header{
+    background-image: url(../img/neumann_header.jpg);
+    height: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#navbar{
+    background: linear-gradient(to bottom right, blue, rgb(0, 0, 124));
+    border-top: 3px white solid;
+    border-bottom: 3px white solid;
+}
+#navlogo{
+    width: 50px;
+    margin-right: 7px;
+    background-color: white;
+    border-radius: 25px;
 }

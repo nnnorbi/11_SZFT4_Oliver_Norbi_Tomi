@@ -1,4 +1,13 @@
-
+html {
+    height: 100%;
+}
+body {
+    background: linear-gradient(to bottom right, rgb(1, 1, 145), rgb(0, 0, 32));
+    height: 100%;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
 header{
     background-image: url(../img/neumann_header.jpg);
     height: 300px;
@@ -16,6 +25,17 @@ header{
     background-color: white;
     border-radius: 25px;
 }
+#main{
+    background-color: rgba(255, 255, 255, 0.7);
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding: 20px;
+    border: 3px white solid;
+    border-radius: 10px;
+}
+h1{
+    text-align: center;
+}
 #card1{
     background: linear-gradient(to bottom right, blue, rgb(0, 0, 124));
     color: white;
@@ -27,4 +47,10 @@ header{
     color: white;
     border: 3px white solid;
     border-radius: 10px;
+}
+#footer{
+    background: linear-gradient(to bottom right, blue, rgb(0, 0, 124));
+    height: 60px;
+    border-top: 3px white solid;
+    border-bottom: 3px white solid;
 }

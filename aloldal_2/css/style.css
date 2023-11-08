@@ -42,3 +42,16 @@ header{
     text-align: center;
     padding-top: 15px;
 }
+
+h1{
+text-align: center;
+font-weight: bolder;
+}
+
+h2{
+    font-style: italic;
+
+}
+div{
+    font-weight: 4500;
+}

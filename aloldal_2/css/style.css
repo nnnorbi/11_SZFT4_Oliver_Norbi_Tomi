@@ -55,3 +55,13 @@ h2{
 div{
     font-weight: 4500;
 }
+
+.neu{
+    height: 250px;
+    width: 500px;
+    border-radius: 15px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    
+}

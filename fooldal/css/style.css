@@ -48,6 +48,9 @@ h1{
     border: 3px white solid;
     border-radius: 10px;
 }
+#cardtext{
+    font-size: 92%;
+}
 #footer{
     background: linear-gradient(to bottom right, blue, rgb(0, 0, 124));
     height: 60px;
